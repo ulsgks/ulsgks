@@ -1,7 +1,8 @@
 ![github-header-image](https://github.com/ulyssegerkens/ulyssegerkens/assets/99326326/b75b6618-a784-4966-bae5-02b9911500bf)
 <p>
 👾 &nbsp;&nbsp;Student at <a href="https://campus19.be/">19 - 42 Network</a></br>
-📡 &nbsp;&nbsp;Freelance web designer
+📡 &nbsp;&nbsp;Freelance web designer</br>
+📬 &nbsp;&nbsp;ulysse.gerkens@gmail.com
 </p>
 
 
