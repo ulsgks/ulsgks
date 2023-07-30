@@ -2,7 +2,7 @@
 <p>
 👾 &nbsp;&nbsp;Student at <a href="https://campus19.be/">19 - 42 Network</a></br>
 📡 &nbsp;&nbsp;Freelance web designer</br>
-📬 &nbsp;&nbsp;ulysse.gerkens@gmail.com
+📬 &nbsp;&nbsp;<a href="mailto:ulysse.gerkens@gmail.com">ulysse.gerkens@gmail.com</a>
 </p>
 
 
