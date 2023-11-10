@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/ulyssegerkens/ulyssegerkens/assets/99326326/b75b6618-a784-4966-bae5-02b9911500bf)
 <p>
-👾 &nbsp;&nbsp;Student at <a href="https://campus19.be/">19 - 42 Network</a></br>
+👾 &nbsp;&nbsp;Student at <a href="https://campus19.be/">19 - 42 Network</a> - <a href="https://github.com/ulyssegerkens/42-Cursus/">My 42 Cursus</a></br>
 📡 &nbsp;&nbsp;Freelance web designer</br>
 📬 &nbsp;&nbsp;<a href="mailto:ulysse.gerkens@gmail.com">ulysse.gerkens@gmail.com</a>
 </p>
