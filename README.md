@@ -1,7 +1,7 @@
 <p>
 👾 &nbsp;&nbsp;Student at <a href="https://campus19.be/">19 - 42 Network</a> - <a href="https://github.com/ulyssegerkens/42-Cursus/">My 42 Cursus</a></br>
 📡 &nbsp;&nbsp;Freelance web designer</br>
-📬 &nbsp;&nbsp;<a href="mailto:ulysse.gerkens@gmail.com">ulysse.gerkens@gmail.com</a>
+📍 &nbsp;&nbsp;Based in Brussels</br>
 </p>
 
 
